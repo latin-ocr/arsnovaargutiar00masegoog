@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arsnovaargutiar00masegoog_0304.png"; bbox 0 0 467 783; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 14 17 413 169">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 14 17 413 169">
+     <span class='ocr_line' id='line_1_1' title="bbox 50 17 413 37; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 50 20 80 37; x_wconf 66' lang='grc' dir='ltr'><strong>ΕΜ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 89 19 177 36; x_wconf 54' lang='lat' dir='ltr'><strong>»fimas-M</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 186 17 361 35; x_wconf 68' lang='grc' dir='ltr'>Ξ</span> <span class='ocrx_word' id='word_1_4' title='bbox 381 22 413 35; x_wconf 59' lang='lat' dir='ltr'><strong>nne</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 14 109 412 134; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 14 109 243 134; x_wconf 48' lang='grc' dir='ltr'><strong>ΜηΜΨηἋωψήΒΕι-λμιῦ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 249 110 412 125; x_wconf 53' lang='lat' dir='ltr'><strong>„swa-¹¹..</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 15 130 288 169; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 15 130 288 169; x_wconf 46' lang='grc' dir='ltr'><strong>ΑτυκωμνΜ-ΙΙἮΔΜΙΙῚΙΗ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

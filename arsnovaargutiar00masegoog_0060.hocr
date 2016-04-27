@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arsnovaargutiar00masegoog_0060.png"; bbox 0 0 467 783; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 13 20 417 229">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 13 20 417 229">
+     <span class='ocr_line' id='line_1_1' title="bbox 13 20 323 45; baseline -0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 13 29 32 42; x_wconf 72' lang='lat'>4²</span> <span class='ocrx_word' id='word_1_2' title='bbox 102 20 153 38; x_wconf 57' lang='lat' dir='ltr'>mas</span> <span class='ocrx_word' id='word_1_3' title='bbox 167 27 181 38; x_wconf 82' lang='grc' dir='ltr'>ι,</span> <span class='ocrx_word' id='word_1_4' title='bbox 191 21 252 45; x_wconf 51' lang='lat' dir='ltr'>aym</span> <span class='ocrx_word' id='word_1_5' title='bbox 260 21 323 38; x_wconf 62' lang='lat' dir='ltr'>mvl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 16 46 417 90; baseline 0.007 -4"><span class='ocrx_word' id='word_1_6' title='bbox 16 46 375 90; x_wconf 34' lang='lat' dir='ltr'>&amp;mxx-1³:33*</span> <span class='ocrx_word' id='word_1_7' title='bbox 413 75 417 77; x_wconf 51' lang='lat'><strong>&gt;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 35 89 361 126; baseline -0.006 0"><span class='ocrx_word' id='word_1_8' title='bbox 35 89 361 126; x_wconf 38' lang='lat' dir='ltr'>”ffiffimsshffl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 14 130 342 172; baseline -0.012 -5"><span class='ocrx_word' id='word_1_9' title='bbox 14 131 65 167; x_wconf 55' lang='lat' dir='ltr'>”12ss</span> <span class='ocrx_word' id='word_1_10' title='bbox 67 130 308 172; x_wconf 40' lang='lat' dir='ltr'>3:5xe</span> <span class='ocrx_word' id='word_1_11' title='bbox 339 151 342 153; x_wconf 13' lang='grc' dir='ltr'><strong>Α</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 16 169 307 229; baseline 0.01 -2"><span class='ocrx_word' id='word_1_12' title='bbox 16 169 307 229; x_wconf 45' lang='lat' dir='ltr'>§mamffiw</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 93 230 345 245">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 93 230 345 245">
+     <span class='ocr_line' id='line_1_6' title="bbox 93 230 345 245; baseline -0.004 0"><span class='ocrx_word' id='word_1_13' title='bbox 93 230 345 245; x_wconf 44' lang='lat' dir='ltr'>Galli-inustum&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 21 647 437 701">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 21 647 437 701">
+     <span class='ocr_line' id='line_1_7' title="bbox 21 647 437 701; baseline -0.005 -12"><span class='ocrx_word' id='word_1_14' title='bbox 21 647 437 701; x_wconf 44' lang='grc' dir='ltr'>Ω-,ῑκπεετεᾰῶςω</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
